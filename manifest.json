@@ -1,0 +1,16 @@
+{
+    "name" : "LIVEBATS",
+    "version" : "1.0",
+    "description": "Share real-time cricket scores effortlessly with friends and family using this user-friendly Chrome extension. Stay connected to the excitement of live cricket matches with just a few clicks!",
+
+    "manifest_version": 3,
+    "author" : "Garv Chouhan",
+    "action":{
+        "default_popup": "index.html",
+        "default_icon": "extension-bg.png",
+        "default_title": "LIVEBATS"
+    },
+    "icons":{
+        "150": "extension-bg.png"
+    }
+}

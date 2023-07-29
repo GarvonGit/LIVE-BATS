@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(14, 25, 58);
+    background-image: url("extension-bg.png");
+    color: white;
+    background-repeat: no-repeat;
+    min-width: 300px;
+}
+
+.heading{
+    color: blanchedalmond;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 10px;
+}
